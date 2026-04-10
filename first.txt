@@ -3,3 +3,6 @@ gitの練習
 
 git add 
 git commit
+
+
+aaaaa
